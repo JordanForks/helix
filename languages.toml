@@ -845,7 +845,7 @@ indent = { tab-width = 2, unit = "  " }
 
 [[grammar]]
 name = "html"
-source = { git = "https://github.com/tree-sitter/tree-sitter-html", rev = "29f53d8f4f2335e61bf6418ab8958dac3282077a" }
+source = { git = "https://github.com/tree-sitter/tree-sitter-html", rev = "14bdaf0da9e26e2de9b30178c2242539d2b0b285" }
 
 [[language]]
 name = "python"
